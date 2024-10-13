@@ -1,4 +1,4 @@
-# MLIP Competition
+# UNI-D 4th Baseline
 ## Image Denoising Task Using Restormer
 
 ### 코드 구조
