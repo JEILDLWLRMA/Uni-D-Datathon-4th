@@ -6,11 +6,12 @@
 ```
 ${PROJECT}
 ├── README.md
-├── Restormer_test.py
-├── Restormer_train.py
-└── predict.py
+├── preprocess.py
+├── model.py
+├── train.py
+└── test.py
 ```
-
-- Restormer_test.py -> Inference
-- Restormer_train.py -> Training Restormer 
-- Restormer_model.py -> Implementation of Restormer 
+- preprocess.py -> preprocess data
+- test.py -> Inference
+- train.py -> Training Restormer 
+- model.py -> Implementation of Restormer 
