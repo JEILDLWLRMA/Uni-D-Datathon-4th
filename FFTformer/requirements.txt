@@ -1,0 +1,8 @@
+torch==2.0.0               # PyTorch 버전 확인 필요
+torchvision==0.15.1        # torchvision 버전 확인 필요
+opencv-python==4.5.5.64    # OpenCV for image handling
+einops==0.4.1              # for tensor reshaping
+numpy==1.23.0              # for general numerical operations
+Pillow==9.2.0              # PIL for image handling
+torchmetrics==0.11.4       # for evaluation metrics
+tqdm==4.64.0               # for progress bars

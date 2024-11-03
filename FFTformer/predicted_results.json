@@ -1,0 +1,850 @@
+[
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_000.jpg",
+        "label": 10
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_001.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_002.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_025.jpg",
+        "label": 17
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_009.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_017.jpg",
+        "label": 6
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_012.jpg",
+        "label": 4
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_021.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_022.jpg",
+        "label": 5
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_007.jpg",
+        "label": 6
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_019.jpg",
+        "label": 1
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_004.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_026.jpg",
+        "label": 19
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_020.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_018.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_016.jpg",
+        "label": 6
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_023.jpg",
+        "label": 5
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_024.jpg",
+        "label": 6
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_013.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_003.jpg",
+        "label": 4
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_014.jpg",
+        "label": 4
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_015.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_010.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_027.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_006.jpg",
+        "label": 10
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_008.jpg",
+        "label": 4
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_011.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_005.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_039.jpg",
+        "label": 1
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_043.jpg",
+        "label": 11
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_045.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_044.jpg",
+        "label": 3
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_040.jpg",
+        "label": 0
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_031.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_032.jpg",
+        "label": 18
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_033.jpg",
+        "label": 17
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_030.jpg",
+        "label": 1
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_037.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_046.jpg",
+        "label": 6
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_034.jpg",
+        "label": 1
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_047.jpg",
+        "label": 11
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_029.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_038.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_041.jpg",
+        "label": 0
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_035.jpg",
+        "label": 7
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_036.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_042.jpg",
+        "label": 10
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_028.jpg",
+        "label": 4
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_059.jpg",
+        "label": 3
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_055.jpg",
+        "label": 11
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_053.jpg",
+        "label": 18
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_054.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_050.jpg",
+        "label": 5
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_069.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_064.jpg",
+        "label": 11
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_049.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_065.jpg",
+        "label": 5
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_068.jpg",
+        "label": 8
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_058.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_072.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_066.jpg",
+        "label": 10
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_051.jpg",
+        "label": 7
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_052.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_062.jpg",
+        "label": 8
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_067.jpg",
+        "label": 10
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_057.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_063.jpg",
+        "label": 10
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_048.jpg",
+        "label": 13
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_056.jpg",
+        "label": 6
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_070.jpg",
+        "label": 13
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_060.jpg",
+        "label": 7
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_071.jpg",
+        "label": 4
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_061.jpg",
+        "label": 5
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_095.jpg",
+        "label": 8
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_092.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_087.jpg",
+        "label": 18
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_074.jpg",
+        "label": 4
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_097.jpg",
+        "label": 13
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_083.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_096.jpg",
+        "label": 8
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_075.jpg",
+        "label": 6
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_078.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_077.jpg",
+        "label": 19
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_089.jpg",
+        "label": 1
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_080.jpg",
+        "label": 19
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_085.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_090.jpg",
+        "label": 13
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_082.jpg",
+        "label": 10
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_076.jpg",
+        "label": 7
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_073.jpg",
+        "label": 4
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_088.jpg",
+        "label": 18
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_091.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_079.jpg",
+        "label": 17
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_086.jpg",
+        "label": 18
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_084.jpg",
+        "label": 10
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_081.jpg",
+        "label": 0
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_093.jpg",
+        "label": 6
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_094.jpg",
+        "label": 13
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_117.jpg",
+        "label": 10
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_121.jpg",
+        "label": 10
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_105.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_110.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_101.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_124.jpg",
+        "label": 0
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_113.jpg",
+        "label": 10
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_123.jpg",
+        "label": 19
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_120.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_108.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_122.jpg",
+        "label": 19
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_118.jpg",
+        "label": 8
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_114.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_115.jpg",
+        "label": 11
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_111.jpg",
+        "label": 18
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_112.jpg",
+        "label": 1
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_103.jpg",
+        "label": 8
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_109.jpg",
+        "label": 19
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_119.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_099.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_107.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_102.jpg",
+        "label": 6
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_098.jpg",
+        "label": 0
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_100.jpg",
+        "label": 0
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_106.jpg",
+        "label": 8
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_104.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_116.jpg",
+        "label": 8
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_138.jpg",
+        "label": 3
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_145.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_139.jpg",
+        "label": 6
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_143.jpg",
+        "label": 11
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_129.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_132.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_149.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_135.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_148.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_140.jpg",
+        "label": 8
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_142.jpg",
+        "label": 9
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_134.jpg",
+        "label": 7
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_130.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_131.jpg",
+        "label": 5
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_128.jpg",
+        "label": 8
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_127.jpg",
+        "label": 18
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_147.jpg",
+        "label": 6
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_144.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_141.jpg",
+        "label": 9
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_150.jpg",
+        "label": 13
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_136.jpg",
+        "label": 9
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_137.jpg",
+        "label": 10
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_125.jpg",
+        "label": 8
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_133.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_126.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_146.jpg",
+        "label": 13
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_157.jpg",
+        "label": 11
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_172.jpg",
+        "label": 18
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_181.jpg",
+        "label": 10
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_169.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_155.jpg",
+        "label": 17
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_151.jpg",
+        "label": 10
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_164.jpg",
+        "label": 19
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_167.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_166.jpg",
+        "label": 11
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_152.jpg",
+        "label": 18
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_170.jpg",
+        "label": 10
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_168.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_180.jpg",
+        "label": 19
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_179.jpg",
+        "label": 13
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_174.jpg",
+        "label": 6
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_159.jpg",
+        "label": 13
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_178.jpg",
+        "label": 13
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_161.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_171.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_177.jpg",
+        "label": 10
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_154.jpg",
+        "label": 18
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_156.jpg",
+        "label": 8
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_153.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_162.jpg",
+        "label": 18
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_175.jpg",
+        "label": 4
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_158.jpg",
+        "label": 9
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_173.jpg",
+        "label": 6
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_176.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_163.jpg",
+        "label": 4
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_160.jpg",
+        "label": 10
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_165.jpg",
+        "label": 8
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_209.jpg",
+        "label": 4
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_210.jpg",
+        "label": 18
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_195.jpg",
+        "label": 4
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_197.jpg",
+        "label": 13
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_184.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_196.jpg",
+        "label": 10
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_206.jpg",
+        "label": 18
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_185.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_190.jpg",
+        "label": 18
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_187.jpg",
+        "label": 17
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_201.jpg",
+        "label": 4
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_202.jpg",
+        "label": 6
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_186.jpg",
+        "label": 16
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_198.jpg",
+        "label": 6
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_193.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_204.jpg",
+        "label": 6
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_200.jpg",
+        "label": 6
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_205.jpg",
+        "label": 18
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_211.jpg",
+        "label": 2
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_199.jpg",
+        "label": 8
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_191.jpg",
+        "label": 13
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_189.jpg",
+        "label": 3
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_194.jpg",
+        "label": 8
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_183.jpg",
+        "label": 12
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_192.jpg",
+        "label": 13
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_207.jpg",
+        "label": 4
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_188.jpg",
+        "label": 10
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_208.jpg",
+        "label": 6
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_182.jpg",
+        "label": 19
+    },
+    {
+        "filepath": "/content/drive/MyDrive/test/Input/TEST_203.jpg",
+        "label": 18
+    }
+]
